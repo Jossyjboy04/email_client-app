@@ -1,0 +1,321 @@
+id,sender,key,value,timestamp
+163,olorijoseph2002@gmail.com,temperature,37.5,2025-07-11T10:37:36
+164,olorijoseph2002@gmail.com,status,normal,2025-07-11T10:37:36
+165,olorijoseph2002@gmail.com,sensor_id,A1,2025-07-11T10:37:36
+166,olorijoseph2002@gmail.com,battery,85%,2025-07-11T10:37:36
+167,olorijoseph2002@gmail.com,location,"Lab
+",2025-07-11T10:37:36
+160,ezekielmcfadipe@gmail.com,temperature,"37.5
+status",2025-07-11T10:17:39
+161,ezekielmcfadipe@gmail.com,sensor_id,"A1
+battery",2025-07-11T10:17:39
+162,ezekielmcfadipe@gmail.com,location,"Lab Room 2
+",2025-07-11T10:17:39
+155,olorijoseph2002@gmail.com,temperature,37.5,2025-07-11T08:31:37
+156,olorijoseph2002@gmail.com,status,normal,2025-07-11T08:31:37
+157,olorijoseph2002@gmail.com,sensor_id,A1,2025-07-11T08:31:37
+158,olorijoseph2002@gmail.com,battery,85%,2025-07-11T08:31:37
+159,olorijoseph2002@gmail.com,location,"Lab
+Room 2
+
+On Fri",2025-07-11T08:31:37
+150,olorijoseph2002@gmail.com,temperature,37.5,2025-07-10T18:43:13
+151,olorijoseph2002@gmail.com,status,normal,2025-07-10T18:43:13
+152,olorijoseph2002@gmail.com,sensor_id,A1,2025-07-10T18:43:13
+153,olorijoseph2002@gmail.com,battery,85%,2025-07-10T18:43:13
+154,olorijoseph2002@gmail.com,location,"Lab
+Room 2",2025-07-10T18:43:13
+145,olorijoseph2002@gmail.com,temperature,37.5,2025-07-10T18:34:24
+146,olorijoseph2002@gmail.com,status,normal,2025-07-10T18:34:24
+147,olorijoseph2002@gmail.com,sensor_id,A1,2025-07-10T18:34:24
+148,olorijoseph2002@gmail.com,battery,85%,2025-07-10T18:34:24
+149,olorijoseph2002@gmail.com,location,"Lab
+",2025-07-10T18:34:24
+140,olorijoseph2002@gmail.com,temperature,37.5,2025-07-10T18:32:13
+141,olorijoseph2002@gmail.com,status,normal,2025-07-10T18:32:13
+142,olorijoseph2002@gmail.com,sensor_id,A1,2025-07-10T18:32:13
+143,olorijoseph2002@gmail.com,battery,85%,2025-07-10T18:32:13
+144,olorijoseph2002@gmail.com,location,"Lab
+Room 2",2025-07-10T18:32:13
+135,olorijoseph2002@gmail.com,temperature,37.5,2025-07-10T18:29:49
+136,olorijoseph2002@gmail.com,status,normal,2025-07-10T18:29:49
+137,olorijoseph2002@gmail.com,sensor_id,A1,2025-07-10T18:29:49
+138,olorijoseph2002@gmail.com,battery,85%,2025-07-10T18:29:49
+139,olorijoseph2002@gmail.com,location,"Lab
+",2025-07-10T18:29:49
+130,olorijoseph2002@gmail.com,temperature,37.5,2025-07-10T18:27:22
+131,olorijoseph2002@gmail.com,status,normal,2025-07-10T18:27:22
+132,olorijoseph2002@gmail.com,sensor_id,A1,2025-07-10T18:27:22
+133,olorijoseph2002@gmail.com,battery,85%,2025-07-10T18:27:22
+134,olorijoseph2002@gmail.com,location,"Lab
+",2025-07-10T18:27:22
+125,olorijoseph2002@gmail.com,temperature,37.5,2025-07-10T18:25:09
+126,olorijoseph2002@gmail.com,status,normal,2025-07-10T18:25:09
+127,olorijoseph2002@gmail.com,sensor_id,A1,2025-07-10T18:25:09
+128,olorijoseph2002@gmail.com,battery,85%,2025-07-10T18:25:09
+129,olorijoseph2002@gmail.com,location,"Lab
+Room 2",2025-07-10T18:25:09
+120,olorijoseph2002@gmail.com,temperature,37.5,2025-07-10T18:16:47
+121,olorijoseph2002@gmail.com,status,normal,2025-07-10T18:16:47
+122,olorijoseph2002@gmail.com,sensor_id,A1,2025-07-10T18:16:47
+123,olorijoseph2002@gmail.com,battery,85%,2025-07-10T18:16:47
+124,olorijoseph2002@gmail.com,location,"Lab
+",2025-07-10T18:16:47
+115,olorijoseph2002@gmail.com,temperature,37.5,2025-07-10T15:48:04
+116,olorijoseph2002@gmail.com,status,normal,2025-07-10T15:48:04
+117,olorijoseph2002@gmail.com,sensor_id,A1,2025-07-10T15:48:04
+118,olorijoseph2002@gmail.com,battery,85%,2025-07-10T15:48:04
+119,olorijoseph2002@gmail.com,location,"Lab
+Room 2
+
+On Thu",2025-07-10T15:48:04
+110,olorijoseph2002@gmail.com,temperature,37.5,2025-07-10T14:46:10
+111,olorijoseph2002@gmail.com,status,normal,2025-07-10T14:46:10
+112,olorijoseph2002@gmail.com,sensor_id,A1,2025-07-10T14:46:10
+113,olorijoseph2002@gmail.com,battery,85%,2025-07-10T14:46:10
+114,olorijoseph2002@gmail.com,location,"Lab
+Room 2
+
+On Thu",2025-07-10T14:46:10
+105,olorijoseph2002@gmail.com,temperature,37.5,2025-07-10T11:34:10
+106,olorijoseph2002@gmail.com,status,normal,2025-07-10T11:34:10
+107,olorijoseph2002@gmail.com,sensor_id,A1,2025-07-10T11:34:10
+108,olorijoseph2002@gmail.com,battery,85%,2025-07-10T11:34:10
+109,olorijoseph2002@gmail.com,location,"Lab
+Room 2
+
+On Thu",2025-07-10T11:34:10
+102,fadebowaley@gmail.com,temperature,"37.5
+status",2025-07-10T11:00:28
+103,fadebowaley@gmail.com,sensor_id,"A1
+battery",2025-07-10T11:00:28
+104,fadebowaley@gmail.com,location,"Lab Room 2
+
+
+-- 
+",2025-07-10T11:00:28
+99,fadebowaley@gmail.com,temperature,"37.5
+status",2025-07-10T11:00:25
+100,fadebowaley@gmail.com,sensor_id,"A1
+battery",2025-07-10T11:00:25
+101,fadebowaley@gmail.com,location,"Lab Room 2
+
+-- 
+",2025-07-10T11:00:25
+96,ezekielmcfadipe@gmail.com,temperature,"37.5
+status",2025-07-10T11:00:22
+97,ezekielmcfadipe@gmail.com,sensor_id,"A1
+battery",2025-07-10T11:00:22
+98,ezekielmcfadipe@gmail.com,location,"Lab Room 2
+",2025-07-10T11:00:22
+93,fadebowaley@gmail.com,temperature,"37.5
+status",2025-07-10T11:00:19
+94,fadebowaley@gmail.com,sensor_id,"A1
+battery",2025-07-10T11:00:19
+95,fadebowaley@gmail.com,location,"Lab Room 2
+
+-- 
+",2025-07-10T11:00:19
+90,ezekielmcfadipe@gmail.com,temperature,"37.5
+status",2025-07-10T11:00:16
+91,ezekielmcfadipe@gmail.com,sensor_id,"A1
+battery",2025-07-10T11:00:16
+92,ezekielmcfadipe@gmail.com,location,"Lab Room 2
+",2025-07-10T11:00:16
+87,fadebowaley@gmail.com,temperature,"37.5
+status",2025-07-10T10:59:31
+88,fadebowaley@gmail.com,sensor_id,"A1
+battery",2025-07-10T10:59:31
+89,fadebowaley@gmail.com,location,"Lab Room 2
+
+
+-- 
+",2025-07-10T10:59:31
+84,fadebowaley@gmail.com,temperature,"37.5
+status",2025-07-10T10:59:27
+85,fadebowaley@gmail.com,sensor_id,"A1
+battery",2025-07-10T10:59:27
+86,fadebowaley@gmail.com,location,"Lab Room 2
+
+-- 
+",2025-07-10T10:59:27
+81,ezekielmcfadipe@gmail.com,temperature,"37.5
+status",2025-07-10T10:59:24
+82,ezekielmcfadipe@gmail.com,sensor_id,"A1
+battery",2025-07-10T10:59:24
+83,ezekielmcfadipe@gmail.com,location,"Lab Room 2
+",2025-07-10T10:59:24
+78,fadebowaley@gmail.com,temperature,"37.5
+status",2025-07-10T10:59:21
+79,fadebowaley@gmail.com,sensor_id,"A1
+battery",2025-07-10T10:59:21
+80,fadebowaley@gmail.com,location,"Lab Room 2
+
+-- 
+",2025-07-10T10:59:21
+75,ezekielmcfadipe@gmail.com,temperature,"37.5
+status",2025-07-10T10:59:18
+76,ezekielmcfadipe@gmail.com,sensor_id,"A1
+battery",2025-07-10T10:59:18
+77,ezekielmcfadipe@gmail.com,location,"Lab Room 2
+",2025-07-10T10:59:18
+72,fadebowaley@gmail.com,temperature,"37.5
+status",2025-07-10T10:58:35
+73,fadebowaley@gmail.com,sensor_id,"A1
+battery",2025-07-10T10:58:35
+74,fadebowaley@gmail.com,location,"Lab Room 2
+
+
+-- 
+",2025-07-10T10:58:35
+69,fadebowaley@gmail.com,temperature,"37.5
+status",2025-07-10T10:58:32
+70,fadebowaley@gmail.com,sensor_id,"A1
+battery",2025-07-10T10:58:32
+71,fadebowaley@gmail.com,location,"Lab Room 2
+
+-- 
+",2025-07-10T10:58:32
+66,ezekielmcfadipe@gmail.com,temperature,"37.5
+status",2025-07-10T10:58:29
+67,ezekielmcfadipe@gmail.com,sensor_id,"A1
+battery",2025-07-10T10:58:29
+68,ezekielmcfadipe@gmail.com,location,"Lab Room 2
+",2025-07-10T10:58:29
+63,fadebowaley@gmail.com,temperature,"37.5
+status",2025-07-10T10:58:27
+64,fadebowaley@gmail.com,sensor_id,"A1
+battery",2025-07-10T10:58:27
+65,fadebowaley@gmail.com,location,"Lab Room 2
+
+-- 
+",2025-07-10T10:58:27
+60,ezekielmcfadipe@gmail.com,temperature,"37.5
+status",2025-07-10T10:58:24
+61,ezekielmcfadipe@gmail.com,sensor_id,"A1
+battery",2025-07-10T10:58:24
+62,ezekielmcfadipe@gmail.com,location,"Lab Room 2
+",2025-07-10T10:58:24
+57,fadebowaley@gmail.com,temperature,"37.5
+status",2025-07-10T10:57:34
+58,fadebowaley@gmail.com,sensor_id,"A1
+battery",2025-07-10T10:57:34
+59,fadebowaley@gmail.com,location,"Lab Room 2
+
+
+-- 
+",2025-07-10T10:57:34
+54,fadebowaley@gmail.com,temperature,"37.5
+status",2025-07-10T10:57:29
+55,fadebowaley@gmail.com,sensor_id,"A1
+battery",2025-07-10T10:57:29
+56,fadebowaley@gmail.com,location,"Lab Room 2
+
+-- 
+",2025-07-10T10:57:29
+51,ezekielmcfadipe@gmail.com,temperature,"37.5
+status",2025-07-10T10:57:26
+52,ezekielmcfadipe@gmail.com,sensor_id,"A1
+battery",2025-07-10T10:57:26
+53,ezekielmcfadipe@gmail.com,location,"Lab Room 2
+",2025-07-10T10:57:26
+48,fadebowaley@gmail.com,temperature,"37.5
+status",2025-07-10T10:57:18
+49,fadebowaley@gmail.com,sensor_id,"A1
+battery",2025-07-10T10:57:18
+50,fadebowaley@gmail.com,location,"Lab Room 2
+
+-- 
+",2025-07-10T10:57:18
+45,ezekielmcfadipe@gmail.com,temperature,"37.5
+status",2025-07-10T10:57:12
+46,ezekielmcfadipe@gmail.com,sensor_id,"A1
+battery",2025-07-10T10:57:12
+47,ezekielmcfadipe@gmail.com,location,"Lab Room 2
+",2025-07-10T10:57:12
+42,Ademola Adebowale <fadebowaley@gmail.com>,temperature,"37.5
+status",2025-07-10T09:17:49
+43,Ademola Adebowale <fadebowaley@gmail.com>,sensor_id,"A1
+battery",2025-07-10T09:17:49
+44,Ademola Adebowale <fadebowaley@gmail.com>,location,"Lab Room 2
+
+
+-- 
+",2025-07-10T09:17:49
+37,Ayomide oloriojekabe <oloriayo09272002@gmail.com>,temperature,37.5,2025-07-10T09:12:52
+38,Ayomide oloriojekabe <oloriayo09272002@gmail.com>,status,normal,2025-07-10T09:12:52
+39,Ayomide oloriojekabe <oloriayo09272002@gmail.com>,sensor_id,A1,2025-07-10T09:12:52
+40,Ayomide oloriojekabe <oloriayo09272002@gmail.com>,battery,85%,2025-07-10T09:12:52
+41,Ayomide oloriojekabe <oloriayo09272002@gmail.com>,location,"Lab
+Room 2
+",2025-07-10T09:12:52
+32,Ayomide oloriojekabe <oloriayo09272002@gmail.com>,temperature,37.5,2025-07-09T18:14:14
+33,Ayomide oloriojekabe <oloriayo09272002@gmail.com>,status,normal,2025-07-09T18:14:14
+34,Ayomide oloriojekabe <oloriayo09272002@gmail.com>,sensor_id,A1,2025-07-09T18:14:14
+35,Ayomide oloriojekabe <oloriayo09272002@gmail.com>,battery,85%,2025-07-09T18:14:14
+36,Ayomide oloriojekabe <oloriayo09272002@gmail.com>,location,"Lab
+Room 2
+",2025-07-09T18:14:14
+27,oloriayo09272002@gmail.com,temperature,37.5,2025-07-09T17:52:16
+28,oloriayo09272002@gmail.com,status,normal,2025-07-09T17:52:16
+29,oloriayo09272002@gmail.com,sensor_id,A1,2025-07-09T17:52:16
+30,oloriayo09272002@gmail.com,battery,85%,2025-07-09T17:52:16
+31,oloriayo09272002@gmail.com,location,"Lab
+Room 2
+",2025-07-09T17:52:16
+24,oloriayo09272002@gmail.com,temperature,"37.5
+status",2025-07-09T17:49:28
+25,oloriayo09272002@gmail.com,sensor_id,"A1
+battery",2025-07-09T17:49:28
+26,oloriayo09272002@gmail.com,location,"Lab Room 2
+",2025-07-09T17:49:28
+21,oloriayo09272002@gmail.com,temperature,"37.5
+status",2025-07-09T17:01:21
+22,oloriayo09272002@gmail.com,sensor_id,"A1
+battery",2025-07-09T17:01:21
+23,oloriayo09272002@gmail.com,location,"Lab Room 2
+",2025-07-09T17:01:21
+18,fadebowaley@gmail.com,temperature,"37.5
+status",2025-07-09T15:36:52
+19,fadebowaley@gmail.com,sensor_id,"A1
+battery",2025-07-09T15:36:52
+20,fadebowaley@gmail.com,location,"Lab Room 2
+
+-- 
+",2025-07-09T15:36:52
+15,ezekielmcfadipe@gmail.com,temperature,"37.5
+status",2025-07-09T15:36:48
+16,ezekielmcfadipe@gmail.com,sensor_id,"A1
+battery",2025-07-09T15:36:48
+17,ezekielmcfadipe@gmail.com,location,"Lab Room 2
+",2025-07-09T15:36:48
+10,pelekadeba@gmail.com,temperature,"37.5
+",2025-07-09T15:34:24
+11,pelekadeba@gmail.com,status,"normal
+",2025-07-09T15:34:24
+12,pelekadeba@gmail.com,sensor_id,"A1
+",2025-07-09T15:34:24
+13,pelekadeba@gmail.com,battery,"85%
+",2025-07-09T15:34:24
+14,pelekadeba@gmail.com,location,"Lab Room 2
+",2025-07-09T15:34:24
+7,pelekadeba@gmail.com,temperature,"37.5
+status",2025-07-09T15:25:01
+8,pelekadeba@gmail.com,sensor_id,"A1
+battery",2025-07-09T15:25:01
+9,pelekadeba@gmail.com,location,"Lab Room 2
+",2025-07-09T15:25:01
+4,fadebowaley@gmail.com,temperature,"37.5
+status",2025-07-09T15:22:36
+5,fadebowaley@gmail.com,sensor_id,"A1
+battery",2025-07-09T15:22:36
+6,fadebowaley@gmail.com,location,"Lab Room 2
+
+-- 
+",2025-07-09T15:22:36
+1,ezekielmcfadipe@gmail.com,temperature,"37.5
+status",2025-07-09T15:22:32
+2,ezekielmcfadipe@gmail.com,sensor_id,"A1
+battery",2025-07-09T15:22:32
+3,ezekielmcfadipe@gmail.com,location,"Lab Room 2
+",2025-07-09T15:22:32

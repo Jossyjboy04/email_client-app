@@ -1,0 +1,44 @@
+# email_responder.py
+
+import smtplib
+from email.message import EmailMessage
+from config import EMAIL_USER, EMAIL_PASS, SMTP_HOST, SMTP_PORT
+
+def send_success_reply(to_email, name="there"):
+    try:
+        msg = EmailMessage()
+        msg["Subject"] = "✅ Submission Received"
+        msg["From"] = EMAIL_USER
+        msg["To"] = to_email
+        msg.set_content(
+            f"Hello {name},\n\nYour data submission has been received and processed successfully.\n\nThank you!\n- The Halo Server Team"
+        )
+
+        with smtplib.SMTP_SSL(SMTP_HOST, SMTP_PORT) as smtp:
+            smtp.login(EMAIL_USER, EMAIL_PASS)
+            smtp.send_message(msg)
+
+        print(f"📤 Success reply sent to {to_email}")
+
+    except Exception as e:
+        print(f"❌ Failed to send success reply to {to_email}: {e}")
+
+def send_unknown_user_reply(to_email, name="there"):
+    try:
+        msg = EmailMessage()
+        msg["Subject"] = "❗ Unrecognized Sender"
+        msg["From"] = EMAIL_USER
+        msg["To"] = to_email
+        msg.set_content(
+            f"Hello {name},\n\nWe couldn't find your record in our database. "
+            "Please ensure you're registered before submitting data.\n\nThanks,\n- The Halo Server Team"
+        )
+
+        with smtplib.SMTP_SSL(SMTP_HOST, SMTP_PORT) as smtp:
+            smtp.login(EMAIL_USER, EMAIL_PASS)
+            smtp.send_message(msg)
+
+        print(f"📤 Unknown user notice sent to {to_email}")
+
+    except Exception as e:
+        print(f"❌ Failed to send unknown user reply to {to_email}: {e}"
